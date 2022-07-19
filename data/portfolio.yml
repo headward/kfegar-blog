@@ -1,0 +1,88 @@
+portfolioitems:
+  # portfolio category
+  - title: Compétences & Projets
+    portfolioitem:
+      - name: Job & Box
+        image: '/images/portfolio/jb.jpg'
+        link: https://www.groupe-jobbox.fr/
+        linktext: 'Visiter le site'
+        description: "Site d\'agence d\'intérim sous Symfony 6"
+        tags:
+          - Symfony
+          - Stimulus
+        status: 'Livré'
+        start: '2022'
+        end: '2022'
+
+      - name: Région Pays de la Loire
+        image: '/images/portfolio/rpl.png'
+        link: https://www.paysdelaloire.fr/
+        linktext: 'Visiter le site'
+        description: 'Site insitutionnel de la région Pays de la Loire sous Drupal 9'
+        status: 'Livré'
+        tags:
+          - Drupal
+          - OpenAgenda
+          - OpenData
+
+      - name: Josette & tic
+        image: '/images/portfolio/josette.png'
+        link: https://josette-tic.com/fr/
+        linktext: 'Visiter le site'
+        description: 'Site e-commerce de chaussettes éthiques, sous Sylius'
+        status: 'Livré'
+        tags:
+          - Sylius
+          - Stimulus
+
+      - name: J\'aime mon commerce Quimper
+        image: '/images/portfolio/jmc.png'
+        link: https://jaimemescommerces-quimper.bzh/
+        linktext: 'Visiter le site'
+        description: 'Site de référencement de commerces de proximités, sous Laravel & VueJS'
+        status: 'Livré'
+        tags:
+          - Laravel
+          - VueJS
+
+      - name: Whoostay
+        image: '/images/portfolio/whoo.png'
+        link: https://www.whoostay.com/fr/
+        linktext: 'Visiter le site'
+        status: 'Livré'
+        description: "Site vitrine d'hostels et résidences urbaines, avec système de reservation"
+        tags:
+          - WordPress
+  # portfolio category
+  - title: Projets personnels
+    portfolioitem:
+      - name: Soundboard
+        link: https://github.com/headward/angular-soundboard
+        linktext: 'Visiter le dépot Github'
+        description: "Soundboard simple réalisée pour un petit défi"
+        tags:
+          - Angular
+
+      - name: Gestionnaire place de parking en co-proprieté
+        link: https://github.com/headward/place-invites
+        linktext: 'Visiter le dépot Github'
+        description: "Système de réservation de place de parking pour ma co-proprieté"
+        tags:
+          - Symfony
+          - Stimulus
+          - FullCalendar
+      - name: Robot lanceur de dés Discord
+        link: https://github.com/headward/discordDiceParserBot
+        linktext: 'Visiter le dépot Github'
+        description: "Robot permettant de lancer x dés à n faces sur discord (usage pour jeux de rôles"
+        tags:
+          - DiscordJS
+
+      - name: ATH jeu de rôle
+        link: https://github.com/headward/tabletop-rpg-hp-hud
+        linktext: 'Visiter le dépot Github'
+        description: "Affichage tête haute de jeu de rôle sur table"
+        tags:
+          - Angular
+
+     
