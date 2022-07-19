@@ -3,7 +3,7 @@ title: Mon premier post sur ce blog !
 date: 2022-07-18T15:02:28.333Z
 draft: false
 description: Présentation du blog et objectifs
-thumbnail: /images/IMG_5924_thumbnail.jpg
+thumbnail: /images/start_thumbnail.jpg
 keywords:
   - pédagogie
   - développeur
