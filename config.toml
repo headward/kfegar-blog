@@ -80,7 +80,12 @@ url = "https://github.com/headward/"
   identifier = "a-propos"
   url = "/a-propos/"
   [[menu.main]]
-  name = "Contact"
+  name = "Portfolio"
   weight = 400
+  identifier = "portfolio"
+  url = "/portfolio/"
+  [[menu.main]]
+  name = "Contact"
+  weight = 500
   identifier = "contact"
   url = "/contact/"
