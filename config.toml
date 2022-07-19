@@ -62,3 +62,25 @@ url = "mailto:kevin.fegar@gmail.com"
 icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/headward/"
+
+[menu]
+  [[menu.main]]
+  name = "Accueil"
+  identifier = "accueil"
+  weight = 100
+  url = "/"
+  [[menu.main]]
+  name = "Articles"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
+  [[menu.main]]
+  name = "À propos"
+  weight = 300
+  identifier = "a-propos"
+  url = "/a-propos/"
+  [[menu.main]]
+  name = "Contact"
+  weight = 400
+  identifier = "contact"
+  url = "/contact/"
