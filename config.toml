@@ -12,7 +12,6 @@ description = "Développeur web rennais, touche à tout et curieux"
 profilePicture = "images/profile.jpg"
 contentratio = 0.8
 readMore = true
-
 enableEmoji = true
 enableRobotsTXT = true
 postSectionName = "blog"
@@ -72,8 +71,8 @@ url = "https://github.com/headward/"
   [[menu.main]]
   name = "Articles"
   weight = 200
-  identifier = "posts"
-  url = "/posts/"
+  identifier = "blog"
+  url = "/blog/"
   [[menu.main]]
   name = "À propos"
   weight = 300
