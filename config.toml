@@ -1,19 +1,21 @@
-baseURL = 'http://blog.kfegar.fr/'
+baseURL = 'http://www.kfegar.fr/'
 languageCode = "fr-fr"
 DefaultContentLanguage = "fr"
 theme = "anatole"
 title = 'Blog'
+summarylength = 0
 
 [params]
 title = 'Blog de Kevin Fégar'
 author = "Kevin Fégar"
 description = "Développeur web rennais, touche à tout et curieux"
 profilePicture = "images/profile.jpg"
+contentratio = 0.8
+readMore = true
 
-summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
-
+postSectionName = "blog"
 # Enable Disqus
 #disqusShortname = ""
 
