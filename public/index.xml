@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>http://blog.kfegar.fr/</link>
+    <description>Recent content on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 18 Jul 2022 15:02:28 +0000</lastBuildDate><atom:link href="http://blog.kfegar.fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon premier post sur ce blog !</title>
+      <link>http://blog.kfegar.fr/posts/my-first-post/</link>
+      <pubDate>Mon, 18 Jul 2022 15:02:28 +0000</pubDate>
+      
+      <guid>http://blog.kfegar.fr/posts/my-first-post/</guid>
+      
+        <description>Le premier post du blog de Kevin Fégar et ses enfants</description>
+      
+    </item>
+    
+  </channel>
+</rss>
