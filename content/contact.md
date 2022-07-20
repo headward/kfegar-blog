@@ -4,6 +4,7 @@ title: Contact
 date: 2022-07-19
 description: Page de contact
 contact: false
+draft: true
 ---
 ## Mes coordonnées
 > Téléphone : + 33 6 35 39 73 54

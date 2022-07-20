@@ -4,8 +4,16 @@
   "frontMatter.content.publicFolder": "static",
   "frontMatter.content.pageFolders": [
     {
-      "title": "posts",
-      "path": "[[workspace]]/content/posts"
+      "title": "blog",
+      "path": "[[workspace]]/content/blog"
+    },
+    {
+      "title": "portfolio",
+      "path": "[[workspace]]/content/portfolio"
+    },
+    {
+      "title": "page",
+      "path": "[[workspace]]/content"
     }
   ],
   "frontMatter.taxonomy.contentTypes": [
@@ -67,5 +75,11 @@
         }
       ]
     }
+  ],
+  "frontMatter.taxonomy.tags": [
+    "Bout de vie"
+  ],
+  "frontMatter.taxonomy.categories": [
+    "Générale"
   ]
 }

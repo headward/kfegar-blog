@@ -57,14 +57,14 @@ portfolioitems:
   - title: Projets personnels
     portfolioitem:
       - name: Soundboard
-        link: https://github.com/headward/angular-soundboard
+        link: https://github.com/kfegar/angular-soundboard
         linktext: 'Visiter le dépot Github'
         description: "Soundboard simple réalisée pour un petit défi"
         tags:
           - Angular
 
       - name: Gestionnaire place de parking en co-proprieté
-        link: https://github.com/headward/place-invites
+        link: https://github.com/kfegar/place-invites
         linktext: 'Visiter le dépot Github'
         description: "Système de réservation de place de parking pour ma co-proprieté"
         tags:
@@ -72,14 +72,14 @@ portfolioitems:
           - Stimulus
           - FullCalendar
       - name: Robot lanceur de dés Discord
-        link: https://github.com/headward/discordDiceParserBot
+        link: https://github.com/kfegar/discordDiceParserBot
         linktext: 'Visiter le dépot Github'
         description: "Robot permettant de lancer x dés à n faces sur discord (usage pour jeux de rôles"
         tags:
           - DiscordJS
 
       - name: ATH jeu de rôle
-        link: https://github.com/headward/tabletop-rpg-hp-hud
+        link: https://github.com/kfegar/tabletop-rpg-hp-hud
         linktext: 'Visiter le dépot Github'
         description: "Affichage tête haute de jeu de rôle sur table"
         tags:

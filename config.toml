@@ -60,7 +60,7 @@ url = "mailto:kevin.fegar@gmail.com"
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/headward/"
+url = "https://github.com/kfegar/"
 
 [menu]
   [[menu.main]]
@@ -78,13 +78,3 @@ url = "https://github.com/headward/"
   weight = 300
   identifier = "a-propos"
   url = "/a-propos/"
-  [[menu.main]]
-  name = "Portfolio"
-  weight = 400
-  identifier = "portfolio"
-  url = "/portfolio/"
-  [[menu.main]]
-  name = "Contact"
-  weight = 500
-  identifier = "contact"
-  url = "/contact/"
