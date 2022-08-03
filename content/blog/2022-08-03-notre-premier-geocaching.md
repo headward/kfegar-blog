@@ -32,6 +32,7 @@ Nous avons choisi cette petite commune d'environ 1000 habitants, d'où l'on peut
 
 <br>
 <br>
+
 ___
 <br>
 <br>
@@ -71,9 +72,8 @@ On a aussi vu une très vieille maison de pecheur avec un toit en chaume qui dat
 <br>
 
 ___
-<br>
-<br>
 
+<br>
 
 ## En fait, cette application...
 Est adéquat dans le cas d'une sortie relativement improvisée où il n'y a rien à réserver. Sans prévoir quoi que ce soit nous avons découvert un chouette endroit, nous nous sommes promenés sur une côte agréable, avec des commerces sympas et des balades qu'on pourra refaire en hiver. On a été conquis par cette pratique de geocaching, l'avantage de gamifier la randonnée permet aux enfants d'accrocher et de chercher à marcher un peu plus que d'habitude. C'est sur qu'on va réitérer l'expérience dans d'autres endroits ! :)
