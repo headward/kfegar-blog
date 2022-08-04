@@ -12,11 +12,11 @@ thumbnail: /images/geocaching-thumbnail.jpg
 keywords: null
 slug: notre-premier-geocaching
 ---
-Le géocaching *c'est la gamification de la randonnée par l'utilisation d'un GPS. L'idée c'est qu'il faut suivre des points pour trouver des "caces", qui sont des contenants résitantes à l'eau et aux intempéries afin d'y cacher un objet, un texte, une photo...* ([en savoir plus sur Wikipédia](https://fr.wikipedia.org/wiki/G%C3%A9ocaching))
+Le géocaching *c'est la gamification de la randonnée par l'utilisation d'un GPS. L'idée c'est qu'il faut suivre des points pour trouver des "caches", qui sont des contenants résitants à l'eau et aux intempéries afin d'y cacher un objet, un texte, une photo...* ([en savoir plus sur Wikipédia](https://fr.wikipedia.org/wiki/G%C3%A9ocaching))
 
 
 ## Comment nous avons fait ? 
-Nous sommes passé par une application dédiée à l'Ille-et-Vilaine'. Cette application c'est [Tresors de haute Bretagne](https://www.tresorsdehautebretagne.fr/), portée par le département ainsi que les offices de tourismes d'Ille-et-Vilaine.
+Nous sommes passés par une application dédiée à l'Ille-et-Vilaine. Cette application c'est [Tresors de haute Bretagne](https://www.tresorsdehautebretagne.fr/), portée par le département ainsi que les offices de tourisme d'Ille-et-Vilaine.
 Donc on télécharge l'application, on choisi le parcours et on y file.
 <br>
 <br>
@@ -27,7 +27,7 @@ ___
 <br>
 
 # Notre destination : Cherrueix
-Nous avons choisi cette petite commune d'environ 1000 habitants, d'où l'on peut admirer la baie du Mont Saint-Michel, pour son litoral et également pour fuir la température de la capitale bretonne, pour la journée :)
+Nous avons choisi cette petite commune d'environ 1000 habitants, d'où l'on peut admirer la baie du Mont Saint-Michel, pour son littoral et également pour fuir la température de la capitale bretonne, pour la journée :)
 <img style="max-width:75%; margin:10px auto;"  src="/images/cherrueix.png"> 
 
 <br>
@@ -76,4 +76,6 @@ ___
 <br>
 
 ## En fait, cette application...
-Est adéquat dans le cas d'une sortie relativement improvisée où il n'y a rien à réserver. Sans prévoir quoi que ce soit nous avons découvert un chouette endroit, nous nous sommes promenés sur une côte agréable, avec des commerces sympas et des balades qu'on pourra refaire en hiver. On a été conquis par cette pratique de geocaching, l'avantage de gamifier la randonnée permet aux enfants d'accrocher et de chercher à marcher un peu plus que d'habitude. C'est sur qu'on va réitérer l'expérience dans d'autres endroits ! :)
+Est adéquate dans le cas d'une sortie relativement improvisée où il n'y a rien à réserver. 
+Sans prévoir quoi que ce soit nous avons découvert un chouette endroit, nous nous sommes promenés sur une côte agréable, avec des commerces sympas et des balades qu'on pourra refaire en hiver. 
+On a été conquis par cette pratique de geocaching, l'avantage de gamifier la randonnée permet aux enfants d'accrocher et de chercher à marcher un peu plus que d'habitude. C'est sur qu'on va réitérer l'expérience dans d'autres endroits ! :)
